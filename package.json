@@ -1,0 +1,14 @@
+{
+	"name": "vit",
+	"version": "0.0.1",
+	"description": "Valley India Times",
+	"license": "MIT",
+	"author": "Arif Rahman <shaikh.rahman@gmail.com>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/valleyindiatimes/vit.git"
+	},
+	"devDependencies": {
+		"grunt": "^0.4.5"
+	}
+}
